@@ -37,16 +37,16 @@ export default function Home() {
 						<p style={{ margin: '0', paddingTop: '20px' }}><b>God of: The sky</b></p>
 					</div>
 					<div>
-						<div style={{ margin: '0 auto', width: '100px' }}>
-							<Image src="/eagle.png" alt="eagle" height={80} width={100} />
-						</div>
-						<p style={{ margin: '0', paddingTop: '20px' }}><b>Animal: Eagle</b></p>
-					</div>
-					<div>
 						<div style={{ margin: '0 auto', width: '80px' }}>
 							<Image src="/flash.png" alt="flash" height={80} width={80} />
 						</div>
 						<p style={{ margin: '0', paddingTop: '20px' }}><b>Weapon: Thunderbolt</b></p>
+					</div>
+					<div>
+						<div style={{ margin: '0 auto', width: '100px' }}>
+							<Image src="/eagle.png" alt="eagle" height={80} width={100} />
+						</div>
+						<p style={{ margin: '0', paddingTop: '20px' }}><b>Animal: Eagle</b></p>
 					</div>
 				</div>
 
