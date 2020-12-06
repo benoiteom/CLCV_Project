@@ -1,0 +1,36 @@
+/* @import url('https://fonts.googleapis.com/css?family=Karla:wght@600:800&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chivo:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Karla&display=swap');
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Karla', sans-serif;
+}
+
+h1 {
+  font-family: 'Chivo', sans-serif;
+  font-size: 18vw;
+}
+
+h2 {
+  /* font-family: 'Karla', sans-serif; */
+  font-size: 35px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media only screen and (max-width: 600px) {
+	h1 {
+    font-size: 30vw;
+  }
+}
